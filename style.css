@@ -58,6 +58,7 @@ h1 {
 }
 
 .bouquet-text {
+    font-family: 'Arial', sans-serif;
     font-size: 18px;
     color: #ff4d6d;
     margin-bottom: 10px;
@@ -120,6 +121,7 @@ h1 {
 
 /* Love Message Fade-In */
 #rose-message {
+    font-family: 'Arial', sans-serif;
     font-size: 20px;
     margin-top: 15px;
     color: #b30000;
