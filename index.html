@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Love Letter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>💖 A Love Letter from your not very romantic person 💖</h1>
+
+        <div class="hearts">
+            <div class="heart" onclick="showMessage(0)">💗</div>
+            <div class="heart" onclick="showMessage(1)">💗</div>
+            <div class="heart" onclick="showMessage(2)">💗</div>
+            <div class="heart" onclick="showMessage(3)">💗</div>
+        </div>
+
+        <p id="message" class="hidden"></p>
+
+        <!-- Cute Pastel Rose Bouquet -->
+        <div class="bouquet-container">
+            <p class="bouquet-text">Your package has been delivered 📦
+                <p class="bouquet-text">A bouquet of roses for you 🌹🌹🌹</p>
+            </p>
+            <div class="bouquet">
+                <div class="rose-container">
+                    <div class="rose pink"></div>
+                    <div class="rose red"></div>
+                </div>
+                <div class="rose-container">
+                    <div class="rose peach"></div>
+                    <div class="rose pink"></div>
+                    <div class="rose red"></div>
+                </div>
+                <div class="rose-container">
+                    <div class="rose peach"></div>
+                    <div class="rose pink"></div>
+                </div>
+            </div>
+            <p id="rose-message" class="hidden">🌹 A bouquet of Roses for you</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
