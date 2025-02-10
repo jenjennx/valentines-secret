@@ -20,7 +20,7 @@ body {
 h1 {
     font-family: cursive;
     font-size: 24px;
-    color: #00000;
+    color: #ffb3b2;
 }
 
 .hearts {
@@ -124,7 +124,7 @@ h1 {
     font-family: 'Arial', sans-serif;
     font-size: 20px;
     margin-top: 15px;
-    color: #b30000;
+    color: #ffb3b2;
     font-weight: bold;
     opacity: 0;
     transition: opacity 1s;
