@@ -2,8 +2,8 @@
 body {
     font-family: 'Arial', sans-serif;
     text-align: center;
-    background-color: #ffeaf4;
-    color: #d63384;
+    background-color: #000000;
+    color: #8b0000;
     margin: 0;
     padding: 20px;
 }
@@ -91,15 +91,15 @@ h1 {
 
 /* Rose Colors */
 .rose.red {
-    background-color: #ff4d6d;
+    background-color: #8b0000;
 }
 
 .rose.pink {
-    background-color: #ffb3c6;
+    background-color: #dc143c;
 }
 
 .rose.peach {
-    background-color: #ff9999;
+    background-color: #cd5c5c;
 }
 
 /* Rose Stems */
