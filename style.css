@@ -52,7 +52,7 @@ h1 {
 }
 
 /* Love Message Fade-In */
-.rose-message {
+#rose-message {
     font-family: 'Georgia', serif;
     font-size: 20px;
     margin-top: 15px;
