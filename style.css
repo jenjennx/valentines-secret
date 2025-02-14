@@ -1,6 +1,6 @@
 /* General Cute Pastel Theme */
 body {
-    font-family: 'Lucida Grande', sans-serif;
+    font-family: 'Georgia', serif;
     text-align: center;
     background-color: #fff3f3;
     margin: 0;
@@ -52,8 +52,8 @@ h1 {
 }
 
 /* Love Message Fade-In */
-#rose-message {
-    font-family: 'Lucida Grande', sans-serif;
+.rose-message {
+    font-family: 'Georgia', serif;
     font-size: 20px;
     margin-top: 15px;
     color: #8b0000;
